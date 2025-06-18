@@ -1,0 +1,8 @@
+house-price-app/
+├── appp.py
+├── model.py
+├── model.pkl
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
