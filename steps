@@ -1,0 +1,4 @@
+run this in terminal -"python model.py"
+it will show "✅ Model trained and saved as model.pkl"
+then run - "python appp.py"
+then id gives the web link , open the link
